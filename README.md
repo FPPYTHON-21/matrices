@@ -6,4 +6,4 @@ Ejemplo de operaciones con matrices usando la biblioteca ```NumPy``` de Python.
 ```
 pip3 install numpy
 ```
-![images](descarga.png)
+![images](images/matriz.png)
